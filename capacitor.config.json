@@ -1,0 +1,14 @@
+{
+  "appId": "com.InsightMirror.game",
+  "appName": "Insight Mirror",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/tetris",
+  "linuxAndroidStudioPath": "/home/narrarineesh/Downloads/android-studio-ide-201.7042882-linux/android-studio/bin/studio.sh",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
